@@ -7,12 +7,12 @@
 ------------
 <div align="center">
   <img src="https://img.icons8.com/?size=70&id=eETV3RNHVrWA" alt="Vue.js Icon"/>
-  <img src="./icons/FastAPI.svg" alt="FastAPI Icon"/>
-  <img src="./icons/Python.svg" alt="Python Icon"/>
-  <img src="./icons/Typescript.svg" alt="TypeScript Icon"/>
-  <img src="./icons/Dart.svg" alt="Dart Icon"/>
-  <img src="./icons/Flutter.svg" alt="Flutter Icon"/>
-  <img src="./icons/Docker.svg" alt="Docker Icon"/>
+  <img src="./svg/FastAPI.svg" alt="FastAPI Icon"/>
+  <img src="./svg/Python.svg" alt="Python Icon"/>
+  <img src="./svg/Typescript.svg" alt="TypeScript Icon"/>
+  <img src="./svg/Dart.svg" alt="Dart Icon"/>
+  <img src="./svg/Flutter.svg" alt="Flutter Icon"/>
+  <img src="./svg/Docker.svg" alt="Docker Icon"/>
 </div>
 
 ## GitHub Trophies
