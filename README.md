@@ -6,7 +6,7 @@
 
 <div align="center">
   <img src="https://img.icons8.com/?size=80&id=eETV3RNHVrWA" alt="Vue.js Icon"/>
-  <img src="./FastAPI.svg" alt="FastAPI Icon"/>
+  <img src="./Icons/FastAPI.svg" alt="FastAPI Icon"/>
   <img src="https://img.icons8.com/?size=100&id=13441" alt="Python Icon"/>
   <img src="https://img.icons8.com/?size=100&id=uJM6fQYqDaZK" alt="TypeScript Icon"/>
   <img src="https://img.icons8.com/?size=80&id=cdYUlRaag9G9" alt="Docker Icon"/>
