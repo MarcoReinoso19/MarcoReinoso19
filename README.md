@@ -27,6 +27,8 @@
 
 - Sintaxis Learning: Skill de Alexa para aprendizaje de Sintaxis de los lenguajes de programación Python y Javascript, desarrollada con el SDK de Alexa Skills en Python.
 
+- Proyexus Midnight: Tema personalizado para Visual Studio Code <img src="https://code.visualstudio.com/assets/favicon.ico" alt="VSCode Icon" width="15" height="15">
+
 ## 🏆 GitHub Trophies 🏆
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=MarcoReinoso19&theme=onedark&no-frame=true&no-bg=false&margin-w=4)
