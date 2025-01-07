@@ -3,8 +3,9 @@
 ¡Hola! Soy Marco Reinoso, un desarrollador apasionado por la tecnología y la programación. Trabajo con una variedad de tecnologías, incluyendo Vue.js, FastAPI, Python, TypeScript y Docker. Me dedico a crear soluciones eficientes y escalables, siempre buscando aprender y adoptar nuevas tecnologías para mejorar mis habilidades y los proyectos en los que trabajo.
 
 ------------
+
 <div align="center">
-  <img src="https://img.icons8.com/?size=70&id=eETV3RNHVrWA" alt="Vue.js Icon"/>
+  <img src="./svg/Vue.svg" alt="Vue.js Icon"/>
   <img src="./svg/FastAPI.svg" alt="FastAPI Icon"/>
   <img src="./svg/Python.svg" alt="Python Icon"/>
   <img src="./svg/Typescript.svg" alt="TypeScript Icon"/>
@@ -12,6 +13,8 @@
   <img src="./svg/Flutter.svg" alt="Flutter Icon"/>
   <img src="./svg/Docker.svg" alt="Docker Icon"/>
 </div>
+
+------------
 
 ## ⚡Habilidades⚡
 
